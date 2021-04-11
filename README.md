@@ -1,4 +1,4 @@
-#Nex-DBG
+# Nex-DBG
 
 Nex-DBG is a simple debugger for ARM architecture (ELF format only) 
 
