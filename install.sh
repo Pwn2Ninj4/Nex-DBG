@@ -1,4 +1,3 @@
-Uiii
 #!/usr/bin/bash
 
 #Colors
