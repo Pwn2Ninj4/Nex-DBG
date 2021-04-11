@@ -1,5 +1,5 @@
 # Nex-DBG
-Nex-DBG es un simple debugguer para la arquitectura ARM
+Nex-DBG es un simple debugguer para la arquitectura ARM (Sólo formato ELF)
 
 > Accede e imprime específicamente la sección ELF y los headers del programa
 
