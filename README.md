@@ -16,3 +16,7 @@ bash install.sh
 ```bash
 ./nex-dbg <ELF_binary>
 ```
+
+## PD:
+
+El código puede contener errores, este código se basa en mi aprendizaje sobre el lenguaje C, por lo que es una PoC
