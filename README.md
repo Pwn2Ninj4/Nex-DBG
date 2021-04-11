@@ -1,22 +1,21 @@
-# Nex-DBG
-Nex-DBG es un simple debugguer para la arquitectura ARM (Sólo formato ELF)
+# Nex-DBG Nex-DBG is a simple debugger for ARM architecture (ELF format only) 
 
-> Accede e imprime específicamente la sección ELF y los headers del programa
+> Access and specifically print the ELF section and program headers 
 
-> Accede a Elf32_Ehdr, Elf32_Phdr y Elf32_Shdr, que son las estructuras Elf Header, Program Header y Section Header
+> Access Elf32_Ehdr, Elf32_Phdr and Elf32_Shdr, which are the Elf Header, Program Header and Section Header structures 
 
-## Intalación
+## Installation 
 
-```bash
+```bash 
 bash install.sh
 ```
 
-## Uso
+## Usage 
 
-```bash
+```bash 
 ./nex-dbg <ELF_binary>
 ```
 
-## PD:
+## PD: 
 
-El código puede contener errores, este código se basa en mi aprendizaje sobre el lenguaje C, por lo que es una PoC
+The code may contain errors, this code is based on my learning about the C language, so it is a PoC
